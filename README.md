@@ -1,6 +1,8 @@
 ### Trever Hibbs
 
 Looking to improve my software design skills to ultimately craft functional and easy to understand software.
+
+I am open to job offers.
 <!--
 ### ThePrimeagen
 
