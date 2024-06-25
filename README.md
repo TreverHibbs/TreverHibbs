@@ -1,6 +1,11 @@
-![Metrics](/github-metrics.svg)
+### Trever Hibbs
 
+Looking to improve my software design skills to ultimately craft functional and easy to understand software.
 <!--
+### ThePrimeagen
+
+Just a guy looking to make my developer workflow more awesome, build performant
+projects, understand memory, and ultimately craft really awesome software.
 **TreverHibbs/TreverHibbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
